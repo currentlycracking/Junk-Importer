@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qw8YSahBO7c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kutte\\Downloads\\JunkImporter\\JunkImporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kutte\\.nuget\\packages\\dnlib\\4.5.0\\dnlib.4.5.0.nupkg.sha512",
+    "C:\\Users\\kutte\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\kutte\Downloads\JunkImporter\bin\Debug\net8.0\JunkImporter.exe
+C:\Users\kutte\Downloads\JunkImporter\bin\Debug\net8.0\JunkImporter.deps.json
+C:\Users\kutte\Downloads\JunkImporter\bin\Debug\net8.0\JunkImporter.runtimeconfig.json
+C:\Users\kutte\Downloads\JunkImporter\bin\Debug\net8.0\JunkImporter.dll
+C:\Users\kutte\Downloads\JunkImporter\bin\Debug\net8.0\JunkImporter.pdb
+C:\Users\kutte\Downloads\JunkImporter\bin\Debug\net8.0\dnlib.dll
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\JunkImporter.csproj.AssemblyReference.cache
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\JunkImporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\JunkImporter.AssemblyInfoInputs.cache
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\JunkImporter.AssemblyInfo.cs
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\JunkImporter.csproj.CoreCompileInputs.cache
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\JunkImpo.529245CD.Up2Date
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\JunkImporter.dll
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\refint\JunkImporter.dll
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\JunkImporter.pdb
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\JunkImporter.genruntimeconfig.cache
+C:\Users\kutte\Downloads\JunkImporter\obj\Debug\net8.0\ref\JunkImporter.dll
